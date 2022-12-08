@@ -1,0 +1,26 @@
+C:\Users\Tamirkade Laptop\source\repos\Professional Register form\Professional Register form\bin\Debug\Professional Register form.exe.config
+C:\Users\Tamirkade Laptop\source\repos\Professional Register form\Professional Register form\bin\Debug\Professional Register form.exe
+C:\Users\Tamirkade Laptop\source\repos\Professional Register form\Professional Register form\bin\Debug\Professional Register form.pdb
+C:\Users\Tamirkade Laptop\source\repos\Professional Register form\Professional Register form\obj\Debug\Professional Register form.csprojAssemblyReference.cache
+C:\Users\Tamirkade Laptop\source\repos\Professional Register form\Professional Register form\obj\Debug\Professional_Register_form.Form1.resources
+C:\Users\Tamirkade Laptop\source\repos\Professional Register form\Professional Register form\obj\Debug\Professional_Register_form.Properties.Resources.resources
+C:\Users\Tamirkade Laptop\source\repos\Professional Register form\Professional Register form\obj\Debug\Professional Register form.csproj.GenerateResource.cache
+C:\Users\Tamirkade Laptop\source\repos\Professional Register form\Professional Register form\obj\Debug\Professional Register form.csproj.CoreCompileInputs.cache
+C:\Users\Tamirkade Laptop\source\repos\Professional Register form\Professional Register form\obj\Debug\Professional Register form.exe
+C:\Users\Tamirkade Laptop\source\repos\Professional Register form\Professional Register form\obj\Debug\Professional Register form.pdb
+C:\Users\Tamirkade Laptop\source\repos\Professional Register form\Professional Register form\bin\Debug\EntityFramework.dll
+C:\Users\Tamirkade Laptop\source\repos\Professional Register form\Professional Register form\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tamirkade Laptop\source\repos\Professional Register form\Professional Register form\bin\Debug\EntityFramework.xml
+C:\Users\Tamirkade Laptop\source\repos\Professional Register form\Professional Register form\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tamirkade Laptop\source\repos\Professional Register form\Professional Register form\obj\Debug\Professional Register form.csproj.CopyComplete
+C:\Users\Tamirkade Laptop\source\repos\Professional Register form\Professional Register form\bin\Debug\Professional Register form.exe.manifest
+C:\Users\Tamirkade Laptop\source\repos\Professional Register form\Professional Register form\bin\Debug\Professional Register form.application
+C:\Users\Tamirkade Laptop\source\repos\Professional Register form\Professional Register form\obj\Debug\Professional Register form.exe.manifest
+C:\Users\Tamirkade Laptop\source\repos\Professional Register form\Professional Register form\obj\Debug\Professional Register form.application
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\Professional Register form\Professional Register form\obj\Debug\Professional Register form.csproj.AssemblyReference.cache
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\Professional Register form\Professional Register form\obj\Debug\Professional Register form.csproj.SuggestedBindingRedirects.cache
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\Professional Register form\Professional Register form\obj\Debug\Professional_Register_form.Form1.resources
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\Professional Register form\Professional Register form\obj\Debug\Professional_Register_form.Properties.Resources.resources
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\Professional Register form\Professional Register form\obj\Debug\Professional Register form.csproj.GenerateResource.cache
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\Professional Register form\Professional Register form\obj\Debug\Professional Register form.exe
+C:\Users\m.kiumarsi\Desktop\0 On Git\CSharp\Professional Register form\Professional Register form\obj\Debug\Professional Register form.pdb
